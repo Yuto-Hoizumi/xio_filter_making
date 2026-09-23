@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Generated test data
+*_raw.csv
+*_filtered.csv
